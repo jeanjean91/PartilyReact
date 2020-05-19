@@ -1,0 +1,1 @@
+const REACT_APP_TOKEN = 'pk.eyJ1IjoidHJpbGw5MSIsImEiOiJjazVlbWZiMGsxN3NwM2xucXFuOG1mOXluIn0.oOSekCAu1sx63Zv9rgdp3A';
